@@ -7,12 +7,6 @@ const Home = () => {
       <Hero />
     </div>
   );
-  return (
-    <div>
-      <Hero />
-      <LatestCollection />
-    </div>
-  );
 };
 
 export default Home;
